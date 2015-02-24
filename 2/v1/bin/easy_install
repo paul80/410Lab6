@@ -1,4 +1,4 @@
-#!/cshome/pnhan/410Lab6/2/v1/bin/python
+#!/cshome/pnhan/Lab6/2/v1/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'distribute==0.6.24','console_scripts','easy_install'
 __requires__ = 'distribute==0.6.24'
 import sys
