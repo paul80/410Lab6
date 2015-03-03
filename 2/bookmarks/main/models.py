@@ -16,3 +16,8 @@ class Link(models.Model):
 	def __unicode__(self):
 		return self.title
 
+	# @classmethod
+	# def create(cls,title,url,tags):
+	# 	link=cls(title=title,url=url,tags=tags)
+	# 	return link
+
